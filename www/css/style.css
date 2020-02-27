@@ -1,0 +1,18 @@
+/**/
+header{
+  font-family: Oxygen;
+  font-size: 45px;
+  text-align: center;
+  padding-top: 95px;
+}
+body{
+  background-color: lightsalmon;
+}
+
+.container{
+  padding-top: 50px;
+}
+
+#classRow{
+  padding-top: 50px;
+}
